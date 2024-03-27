@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 results
+dialog
+audios
+ffmpeg.exe
+.idea
